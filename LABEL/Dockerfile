@@ -1,4 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="chaitanya"\
-      COURSE = "Docker"\
-      DURATION = "25hrs"
+      COURSE="Docker"\
+      DURATION="25hrs"
